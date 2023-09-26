@@ -16,6 +16,3 @@ Benefits of Dart
 - Dart can be compiled into JavaScript so it can be executed on browsers.
 - Flutter doesn't split layout between your program and an additonal templating or layout language like JSX or XML, nor does it required separate
   visual layout tools.
-- 
- 
- 
